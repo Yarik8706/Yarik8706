@@ -1,4 +1,4 @@
-Hi, I’m Yarik 8706
+Hi, I’m Yaroslav.
 I’m interested in Unity, Flutter, Angular.
 
 
