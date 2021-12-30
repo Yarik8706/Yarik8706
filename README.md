@@ -1,5 +1,5 @@
 Hi, I’m Yaroslav.
-I’m interested in Unity, Flutter, Angular.
+I’m interested in Unity, Android, Angular.
 
 
 <!---
