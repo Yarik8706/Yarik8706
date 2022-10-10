@@ -1,6 +1,6 @@
 # Hi, I’m Yaroslav.
 ### I’m interested in Unity, Flutter, Angular.
-https://github-readme-stats.vercel.app/api?username=Yarik8706&theme=material-palenight&show_icons=true
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarik8706&theme=material-palenight&show_icons=true)
 # My contacts                                             
 ### Telegram: @Yarik7806
 
