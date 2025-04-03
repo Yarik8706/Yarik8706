@@ -1,7 +1,9 @@
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Yarik8706&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=Yarik8706&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarik8706&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  ![](https://nirzak-streak-stats.vercel.app/?user=Yarik8706&theme=aura&hide_border=false) <br>
+  ![](https://github-readme-stats.vercel.app/api?username=Yarik8706&theme=aura&hide_border=false&include_all_commits=true&count_private=true) <br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarik8706&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
+</div>
 # 💫 About Me:
 Hi, I’m Yaroslav.<br>I’m interested in Unity and React TS.
 
