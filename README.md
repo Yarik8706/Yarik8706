@@ -2,11 +2,6 @@
 <div align="center">
   <hr height="2px">
   <img alt="Stats" src="https://nirzak-streak-stats.vercel.app/?user=Yarik8706&theme=aura&hide_border=false"/> <br>
-  <hr height="2px">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yarik8706&theme=aura&hide_border=false&include_all_commits=true&count_private=true"/> <br>
-  <hr height="2px">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarik8706&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> <br>
-  <hr height="2px">
 </div>
 <h2> 💫 About Me:</h2>
 Hi, I’m Yaroslav.<br>I’m interested in Unity and React TS.
