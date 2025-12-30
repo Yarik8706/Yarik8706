@@ -6,7 +6,7 @@
 <h2> 💫 About Me:</h2>
 Hi, I’m Yaroslav.<br>I’m interested in Unity and React TS.
 
-## My games:
+## 🎮 My games:
 
 ### [Симулятор Сахарного Завода](https://novikovy-constraction.itch.io/sugarfactorysimulator)
 I've been developing for less than a month in solo for the [Useful Games Accelerator](https://habr.com/ru/news/976932/), a 3D game.
