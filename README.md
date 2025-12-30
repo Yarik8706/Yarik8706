@@ -6,6 +6,31 @@
 <h2> 💫 About Me:</h2>
 Hi, I’m Yaroslav.<br>I’m interested in Unity and React TS.
 
+## My games:
+
+### [Симулятор Сахарного Завода](https://novikovy-constraction.itch.io/sugarfactorysimulator)
+I've been developing for less than a month in solo for the [Useful Games Accelerator](https://habr.com/ru/news/976932/), a 3D game.
+
+---
+
+### [Симулятор Ландшафтного Дизайнера](https://novikovy-constraction.itch.io/landscapedesignersimulator)
+A simulator of a landscape designer, AI is used to generate dialogues and communicate with the player.
+
+---
+
+### [Нубик-ветеринар: Лечи котов!](https://yandex.com/games/app/393231?lang=en)
+A casual 3D game, a Minecraft-style veterinarian simulator.
+
+---
+
+### [Симулятор Русского Хакера](https://novikovy-constraction.itch.io/russianhackersimulator)
+A 2D game (my friend acted as an artist).
+
+---
+
+### [Emergency Exit](https://play.google.com/store/apps/details?id=com.Yarikno.MicRogueGold)
+My first 2D pixel game uploaded on Google Play.
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaroslav7906.work@gmail.com) 
