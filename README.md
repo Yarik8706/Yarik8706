@@ -1,7 +1,9 @@
 <h2> 📊 GitHub Stats: </h2>
 <div align="center">
   <hr height="2px">
-  <img alt="Stats" src="https://nirzak-streak-stats.vercel.app/?user=Yarik8706&theme=aura&hide_border=false"/> <br>
+  <img alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yarik8706&theme=aura&hide_border=false"/> <br>
+  <hr height="2px">
+  <hr height="2px">
 </div>
 <h2> 💫 About Me:</h2>
 Hi, I’m Yaroslav.<br>I’m interested in Unity and React TS.
