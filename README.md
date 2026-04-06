@@ -3,10 +3,6 @@
   <hr height="2px">
   <img alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Yarik8706&theme=aura&hide_border=false"/> <br>
   <hr height="2px">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yarik8706&theme=aura&hide_border=false&include_all_commits=false"/>     <br>
-  <hr height="2px">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarik8706&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> <br>
-  <hr height="2px">
 </div>
 <h2> 💫 About Me:</h2>
 Hi, I’m Yaroslav.<br>I’m interested in Unity and React TS.
